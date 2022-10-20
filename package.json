@@ -1,0 +1,16 @@
+{
+  "name": "wYAFb0ptrsFkbi6",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ดูบอลโลกรอบคัดเลือก แทงบอลออนไลน์",
+  "keywords": [
+    "ตารางคะแนน บอลโลก 2022 แทงบอลออนไลน์",
+    "บอลโลก 2022 วิเคราะห์บอลโลก", 
+    "บอลโลก โซนยุโรป ดูบอลโลกรอบคัดเลือก"
+  ],
+  "repository": "https://github.com/kirati1996/ri4mDeK29z.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
